@@ -1,0 +1,53 @@
+[2024-03-05 20:56:07] [ INFO ] [BD:54] se creo la tabla odontologos
+[2024-03-05 20:56:07] [ INFO ] [BD:56] se insertó un valor en la tabla odontologos
+[2024-03-05 20:59:23] [ INFO ] [BD:54] se creo la tabla odontologos
+[2024-03-05 20:59:23] [ INFO ] [BD:56] se insertó un valor en la tabla odontologos
+[2024-03-05 21:01:53] [ INFO ] [BD:54] se creo la tabla odontologos
+[2024-03-05 21:01:53] [ INFO ] [BD:56] se insertó un valor en la tabla odontologos
+[2024-03-05 21:17:58] [ INFO ] [BD:54] se creo la tabla odontologos
+[2024-03-05 21:17:58] [ INFO ] [BD:56] se insertó un valor en la tabla odontologos
+[2024-03-05 21:18:10] [ INFO ] [BD:54] se creo la tabla odontologos
+[2024-03-05 21:18:10] [ INFO ] [BD:56] se insertó un valor en la tabla odontologos
+[2024-03-05 21:19:42] [ INFO ] [BD:54] se creo la tabla odontologos
+[2024-03-05 21:19:42] [ INFO ] [BD:56] se insertó un valor en la tabla odontologos
+[2024-03-05 21:20:49] [ INFO ] [BD:54] se creo la tabla odontologos
+[2024-03-05 21:20:49] [ INFO ] [BD:56] se insertó un valor en la tabla odontologos
+[2024-03-05 21:22:42] [ INFO ] [BD:54] se creo la tabla odontologos
+[2024-03-05 21:22:42] [ INFO ] [BD:56] se insertó un valor en la tabla odontologos
+[2024-03-05 21:23:29] [ INFO ] [BD:54] se creo la tabla odontologos
+[2024-03-05 21:23:29] [ INFO ] [BD:56] se insertó un valor en la tabla odontologos
+[2024-03-08 19:56:39] [ INFO ] [BD:54] se creo la tabla odontologos
+[2024-03-08 19:56:39] [ INFO ] [BD:56] se insertó un valor en la tabla odontologos
+[2024-03-08 20:00:26] [ INFO ] [BD:54] se creo la tabla odontologos
+[2024-03-08 20:00:26] [ INFO ] [BD:56] se insertó un valor en la tabla odontologos
+[2024-03-08 20:07:14] [ INFO ] [DomicilioDaoH2:19] Estamos guardando un paciente
+[2024-03-08 20:07:14] [ INFO ] [DomicilioDaoH2:24] Estamos guardando un domicilio
+[2024-03-08 20:07:14] [ INFO ] [DomicilioDaoH2:42] Se guardó el domicilio
+[2024-03-08 20:07:14] [ INFO ] [DomicilioDaoH2:53] Este es el id: 1
+[2024-03-08 20:07:14] [ INFO ] [DomicilioDaoH2:39] SE CREO EL PACIENTE 1
+[2024-03-08 20:15:39] [ INFO ] [BD:54] se creo la tabla odontologos
+[2024-03-08 20:15:39] [ INFO ] [BD:56] se insertó un valor en la tabla odontologos
+[2024-03-08 20:15:48] [ INFO ] [DomicilioDaoH2:19] Estamos guardando un paciente
+[2024-03-08 20:15:48] [ INFO ] [DomicilioDaoH2:24] Estamos guardando un domicilio
+[2024-03-08 20:15:48] [ INFO ] [DomicilioDaoH2:42] Se guardó el domicilio
+[2024-03-08 20:15:48] [ INFO ] [DomicilioDaoH2:53] Este es el id: 1
+[2024-03-08 20:15:48] [ INFO ] [DomicilioDaoH2:39] SE CREO EL PACIENTE 1
+[2024-03-08 20:16:01] [ INFO ] [DomicilioDaoH2:19] Estamos guardando un paciente
+[2024-03-08 20:16:01] [ INFO ] [DomicilioDaoH2:24] Estamos guardando un domicilio
+[2024-03-08 20:16:02] [ INFO ] [DomicilioDaoH2:42] Se guardó el domicilio
+[2024-03-08 20:16:02] [ INFO ] [DomicilioDaoH2:53] Este es el id: 2
+[2024-03-08 20:16:02] [ INFO ] [DomicilioDaoH2:39] SE CREO EL PACIENTE 2
+[2024-03-08 20:18:11] [ INFO ] [DomicilioDaoH2:19] Estamos guardando un paciente
+[2024-03-08 20:18:11] [ INFO ] [DomicilioDaoH2:24] Estamos guardando un domicilio
+[2024-03-08 20:18:11] [ INFO ] [DomicilioDaoH2:42] Se guardó el domicilio
+[2024-03-08 20:18:11] [ INFO ] [DomicilioDaoH2:53] Este es el id: 3
+[2024-03-08 20:18:28] [ INFO ] [DomicilioDaoH2:19] Estamos guardando un paciente
+[2024-03-08 20:18:28] [ INFO ] [DomicilioDaoH2:24] Estamos guardando un domicilio
+[2024-03-08 20:18:28] [ INFO ] [DomicilioDaoH2:42] Se guardó el domicilio
+[2024-03-08 20:18:28] [ INFO ] [DomicilioDaoH2:53] Este es el id: 4
+[2024-03-08 20:18:28] [ INFO ] [DomicilioDaoH2:39] SE CREO EL PACIENTE 4
+[2024-03-08 20:20:34] [ INFO ] [DomicilioDaoH2:19] Estamos guardando un paciente
+[2024-03-08 20:20:34] [ INFO ] [DomicilioDaoH2:24] Estamos guardando un domicilio
+[2024-03-08 20:20:34] [ INFO ] [DomicilioDaoH2:42] Se guardó el domicilio
+[2024-03-08 20:20:34] [ INFO ] [DomicilioDaoH2:53] Este es el id: 5
+[2024-03-08 20:20:34] [ INFO ] [DomicilioDaoH2:39] SE CREO EL PACIENTE 5
